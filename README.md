@@ -9,4 +9,4 @@
 
 * git pull
 
-* python token.py
+* python cjn.py
